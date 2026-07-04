@@ -18,7 +18,6 @@ public:
         while(!q.empty())
         {
             auto u=q.front();
-            visited[u]=true;
             q.pop();
             for(auto &[v,w]:graph[u])
             {
