@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yashganjare/LeetCode/tree/master/0015-3sum) |
+| [0165-compare-version-numbers](https://github.com/yashganjare/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/yashganjare/LeetCode/tree/master/0344-reverse-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/yashganjare/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashganjare/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/yashganjare/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/yashganjare/LeetCode/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashganjare/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/yashganjare/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
