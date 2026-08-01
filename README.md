@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yashganjare/LeetCode/tree/master/0015-3sum) |
+| [0486-predict-the-winner](https://github.com/yashganjare/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashganjare/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yashganjare/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1260-shift-2d-grid](https://github.com/yashganjare/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/yashganjare/LeetCode/tree/master/0097-interleaving-string) |
+| [0486-predict-the-winner](https://github.com/yashganjare/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/yashganjare/LeetCode/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/yashganjare/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/yashganjare/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/yashganjare/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/yashganjare/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashganjare/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yashganjare/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/yashganjare/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/yashganjare/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -202,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/yashganjare/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/yashganjare/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
