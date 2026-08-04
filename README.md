@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yashganjare/LeetCode/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/yashganjare/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/yashganjare/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashganjare/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yashganjare/LeetCode/tree/master/0067-add-binary) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yashganjare/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/yashganjare/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/yashganjare/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yashganjare/LeetCode/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/yashganjare/LeetCode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/yashganjare/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yashganjare/LeetCode/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/yashganjare/LeetCode/tree/master/0097-interleaving-string) |
 | [0165-compare-version-numbers](https://github.com/yashganjare/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/yashganjare/LeetCode/tree/master/0344-reverse-string) |
