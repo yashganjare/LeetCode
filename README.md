@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashganjare/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/yashganjare/LeetCode/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashganjare/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/yashganjare/LeetCode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashganjare/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yashganjare/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yashganjare/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/yashganjare/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/yashganjare/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/yashganjare/LeetCode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yashganjare/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yashganjare/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yashganjare/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
