@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yashganjare/LeetCode/tree/master/0015-3sum) |
+| [0073-set-matrix-zeroes](https://github.com/yashganjare/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0486-predict-the-winner](https://github.com/yashganjare/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashganjare/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yashganjare/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/yashganjare/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/yashganjare/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/yashganjare/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 ## Sorting
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/yashganjare/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1331-rank-transform-of-an-array](https://github.com/yashganjare/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/yashganjare/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yashganjare/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
