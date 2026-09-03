@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/yashganjare/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yashganjare/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/yashganjare/LeetCode/tree/master/1563-stone-game-v) |
+| [1732-find-the-highest-altitude](https://github.com/yashganjare/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yashganjare/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/yashganjare/LeetCode/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/yashganjare/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/yashganjare/LeetCode/tree/master/1140-stone-game-ii) |
+| [1732-find-the-highest-altitude](https://github.com/yashganjare/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/yashganjare/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
