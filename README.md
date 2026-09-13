@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/yashganjare/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashganjare/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/yashganjare/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0835-image-overlap](https://github.com/yashganjare/LeetCode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/yashganjare/LeetCode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/yashganjare/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/yashganjare/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/yashganjare/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0835-image-overlap](https://github.com/yashganjare/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/yashganjare/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/yashganjare/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 ## Sorting
